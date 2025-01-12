@@ -18,12 +18,14 @@
 <details open="open">
   <summary>Table of projects</summary>
   <ol>
-    <li><a href="Blocks 1: Kayak">Project 1 # Kayak</a></li>
-    <li><a href="Blocks 2: Speed Dating">Project 2 # Speed Dating</a></li>
-    <li><a href="Blocks 3: Machine Learning">Project 3 # Uber Pickups</a></li>
-    <li><a href="#Blocks 4: Disaster Tweets">Projet 4 # Disaster Tweet</a></li>
-    <li><a href="#Blocks 5: Deployment">Projet_5 # Wine-O-Meter</a></li>
-    <li><a href="#Blocks 6: Start-up">Projet_6 # Projet final: Start-up Prediction</a></li>
+    <li><a href="Blocks 1: Kayak">Block 1 - Project Kayak</a></li>
+    <li><a href="Blocks 2: Speed Dating">Block 2 - Project Tinder</a></li>
+    <li><a href="Blocks 2: Steam">Block 2 - Project Steam</a></li>
+    <li><a href="Blocks 3: Machine Learning - Walmart">Block 3 - Project Walmart</a></li>
+    <li><a href="Blocks 3: Machine Learning - Conversion Rate">Block 3 - Conversion Rate</a></li>
+    <li><a href="Blocks 4: Deep Learning">Block 4 - Project AT&T</a></li>
+    <li><a href="Blocks 5: Deployment">Block 5 - Project GetAround</a></li>
+    <li><a href="#locks 6: Final Prokect">Block 6 - Final Project - Hate Speech Detection</a></li>
   </ol>
 </details>
 <br />
