@@ -1,4 +1,3 @@
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -18,21 +17,24 @@
 <details open="open">
   <summary>Table of projects</summary>
   <ol>
-    <li><a href="Blocks 1: Kayak">Block 1 - Project Kayak</a></li>
-    <li><a href="Blocks 2: Speed Dating">Block 2 - Project Tinder</a></li>
-    <li><a href="Blocks 2: Steam">Block 2 - Project Steam</a></li>
-    <li><a href="Blocks 3: Machine Learning - Walmart">Block 3 - Project Walmart</a></li>
-    <li><a href="Blocks 3: Machine Learning - Conversion Rate">Block 3 - Conversion Rate</a></li>
-    <li><a href="Blocks 4: Deep Learning">Block 4 - Project AT&T</a></li>
-    <li><a href="Blocks 5: Deployment">Block 5 - Project GetAround</a></li>
-    <li><a href="#locks 6: Final Prokect">Block 6 - Final Project - Hate Speech Detection</a></li>
+    <li><a href="#block-1---project-kayak">Block 1 - Project Kayak</a></li>
+    <li><a href="#block-2---project-tinder">Block 2 - Project Tinder</a></li>
+    <li><a href="#block-2---project-steam">Block 2 - Project Steam</a></li>
+    <li><a href="#block-3---project-walmart">Block 3 - Project Walmart</a></li>
+    <li><a href="#block-3---conversion-rate">Block 3 - Conversion Rate</a></li>
+    <li><a href="#block-4---project-att">Block 4 - Project AT&T</a></li>
+    <li><a href="#block-5---project-getaround">Block 5 - Project GetAround</a></li>
+    <li><a href="#block-6---final-project">Block 6 - Final Project - Hate Speech Detection</a></li>
   </ol>
 </details>
 <br />
 
+<!-- PROJECT 1 -->
+## Block 1 - Project Kayak
 
-<!-- PROJECT 1  -->
-## <a>Block 1 - Project Kayak</a>
+**Project Link:** []()
+
+### Description
 
 Project 🚧
 
@@ -57,3 +59,51 @@ As the project has just started, your team doesn't have any data that can be use
     Store all the information above in a data lake.
     Extract, transform and load cleaned data from your datalake to a data warehouse.
 
+<!-- PROJECT 2 -->
+## Block 2 - Project Tinder
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 3 -->
+## Block 2 - Project Steam
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 4 -->
+## Block 3 - Project Walmart
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 5 -->
+## Block 3 - Conversion Rate
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 6 -->
+## Block 4 - Project AT&T
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 7 -->
+## Block 5 - Project GetAround
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 8 -->
+## Block 6 - Final Project
+
+**Project Link:** []()
+
+### Description
