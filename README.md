@@ -32,7 +32,7 @@
 
 
 <!-- PROJECT 1  -->
-## <a">Block 1 - Project Kayak</a>
+## <a>Block 1 - Project Kayak</a>
 
 Project 🚧
 
