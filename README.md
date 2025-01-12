@@ -22,6 +22,8 @@
     <li><a href="#block-2---project-steam">Block 2 - Project Steam</a></li>
     <li><a href="#block-3---project-walmart">Block 3 - Project Walmart</a></li>
     <li><a href="#block-3---conversion-rate">Block 3 - Conversion Rate</a></li>
+    <li><a href="#block-3---uber-pickups">Block 3 - Uber Pickups</a></li>
+    <li><a href="#block-3---north-face">Block 3 - North Face</a></li>     
     <li><a href="#block-4---project-att">Block 4 - Project AT&T</a></li>
     <li><a href="#block-5---project-getaround">Block 5 - Project GetAround</a></li>
     <li><a href="#block-6---final-project">Block 6 - Final Project - Hate Speech Detection</a></li>
@@ -147,20 +149,34 @@ Part 3 : Once you're satisfied with your model's score, you can use it to make s
 Part 4 : Take some time to analyze your best model's parameters. Are there any lever for action that would help to improve the newsletter's conversion rate ? What recommendations would you make to the team ?
 
 <!-- PROJECT 6 -->
-## Block 4 - Project AT&T
+## Block 3 - Uber Pickups
 
 **Project Link:** []()
 
 ### Description
 
 <!-- PROJECT 7 -->
-## Block 5 - Project GetAround
+## Block 3 - North Face
 
 **Project Link:** []()
 
 ### Description
 
 <!-- PROJECT 8 -->
+## Block 4 - Project AT&T
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 9 -->
+## Block 5 - Project GetAround
+
+**Project Link:** []()
+
+### Description
+
+<!-- PROJECT 10 -->
 ## Block 6 - Final Project
 
 **Project Link:** []()
