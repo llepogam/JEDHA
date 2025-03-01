@@ -82,7 +82,7 @@ You may use visualisations
 <!-- PROJECT 3 -->
 ## Block 2 - Project Steam
 
-**Project Link:** []()
+**Project Link:** [Project Kayak](https://github.com/llepogam/JEDHA/tree/main#block-2---project-steam)
 
 ### Project 🚧
 You're working for Ubisoft, a French video game publisher. They'd like to release a new revolutionary videogame! They asked you conduct a global analysis of the games available on Steam's marketplace in order to better understand the videogames ecosystem and today's trends.
@@ -114,7 +114,7 @@ Platform analysis
 <!-- PROJECT 4 -->
 ## Block 3 - Project Walmart
 
-**Project Link:** []()
+**Project Link:** [Project Walmart](https://github.com/llepogam/JEDHA/tree/main?tab=readme-ov-file#block-3---project-walmart)
 
 ### Company's Description 📇
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
@@ -132,7 +132,7 @@ The project can be divided into three steps:
 <!-- PROJECT 5 -->
 ## Block 3 - Conversion Rate
 
-**Project Link:** []()
+**Project Link:** [Project Conversion Rate](https://github.com/llepogam/JEDHA/tree/main/Block%203%20-%20Conversion%20Rate)
 
 ### Project 🚧
 The data scientists who created the newsletter would like to understand better the behaviour of the users visiting their website. They would like to know if it's possible to build a model that predicts if a given user will subscribe to the newsletter, by using just a few information about the user. They would like to analyze the parameters of the model to highlight features that are important to explain the behaviour of the users, and maybe discover a new lever for action to improve the newsletter's conversion rate.
@@ -150,7 +150,7 @@ The project can be cut into four steps :
 <!-- PROJECT 6 -->
 ## Block 3 - Uber Pickups
 
-**Project Link:** []()
+**Project Link:** [Project Uber Pickups](https://github.com/llepogam/JEDHA/tree/main/Block%203%20-%20Uber%20Pickups)
 
 ### Company's Description 📇
 
@@ -176,7 +176,7 @@ Visualize results on a nice dashboard
 <!-- PROJECT 7 -->
 ## Block 3 - North Face
 
-**Project Link:** []()
+**Project Link:** [Project North Face](https://github.com/llepogam/JEDHA/tree/main/Block%203%20-%20North%20Face)
 
 ### Company's Description 📇
 The North Face is an American outdoor recreation product company, founded in 1968 to supply climbers. The North Face produces clothing, footwear, and outdoor equipment. By the late 1990s customers had expanded beyond outdoor enthusiasts and in the 2000s it became a fashion style symbol.
