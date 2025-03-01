@@ -8,7 +8,7 @@
 
   <p align="center">
     Class : dsfs-od-08<br />
-    Final exam's date : tbd
+    Final exam's date : April 1st, 2025
     <br />
   </p>
 </p>
@@ -82,7 +82,7 @@ You may use visualisations
 <!-- PROJECT 3 -->
 ## Block 2 - Project Steam
 
-**Project Link:** [Project Kayak](https://github.com/llepogam/JEDHA/tree/main#block-2---project-steam)
+**Project Link:** [Project Steam](https://github.com/llepogam/JEDHA/tree/main#block-2---project-steam)
 
 ### Project 🚧
 You're working for Ubisoft, a French video game publisher. They'd like to release a new revolutionary videogame! They asked you conduct a global analysis of the games available on Steam's marketplace in order to better understand the videogames ecosystem and today's trends.
