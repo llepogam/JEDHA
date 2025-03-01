@@ -82,7 +82,7 @@ You may use visualisations
 <!-- PROJECT 3 -->
 ## Block 2 - Project Steam
 
-**Project Link:** [Project Steam](https://github.com/llepogam/JEDHA/tree/main#block-2---project-steam)
+**Project Link:** [Project Steam](https://github.com/llepogam/JEDHA/tree/main/Block%202%20-%20Project%20Steam)
 
 ### Project 🚧
 You're working for Ubisoft, a French video game publisher. They'd like to release a new revolutionary videogame! They asked you conduct a global analysis of the games available on Steam's marketplace in order to better understand the videogames ecosystem and today's trends.
@@ -114,7 +114,7 @@ Platform analysis
 <!-- PROJECT 4 -->
 ## Block 3 - Project Walmart
 
-**Project Link:** [Project Walmart](https://github.com/llepogam/JEDHA/tree/main?tab=readme-ov-file#block-3---project-walmart)
+**Project Link:** [Project Walmart](https://github.com/llepogam/JEDHA/tree/main/Block%203%20-%20Project%20Wallmart)
 
 ### Company's Description 📇
 Walmart Inc. is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores from the United States, headquartered in Bentonville, Arkansas. The company was founded by Sam Walton in 1962.
