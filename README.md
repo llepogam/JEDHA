@@ -34,7 +34,7 @@
 <!-- PROJECT 1 -->
 ## Block 1 - Project Kayak
 
-**Project Link:** []()
+**Project Link:** [Project Kayak](https://github.com/llepogam/JEDHA/tree/main/Block%201%20%20-%20Kayak%20Project)
 
 ### Project 🚧
 

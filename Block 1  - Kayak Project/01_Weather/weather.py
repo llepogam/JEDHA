@@ -17,7 +17,7 @@ def get_weather_data():
     for code_insee in df['code_insee'].unique():
         url = 'https://api.meteo-concept.com/api/forecast/daily?'
         params = {
-            'token': "e3d5025f48dd7dd7109ef9323194feaad5f9f639e58cd8d77df7e700e49f0777",
+            'token': "xx",
             'insee': code_insee,
             
         }
