@@ -62,7 +62,7 @@ As the project has just started, your team doesn't have any data that can be use
 <!-- PROJECT 2 -->
 ## Block 2 - Project Tinder
 
-**Project Link:** []()
+**Project Link:** https://github.com/llepogam/JEDHA/tree/main/Block%202%20-%20Tinder%20Project
 
 ### Project 🚧
 
