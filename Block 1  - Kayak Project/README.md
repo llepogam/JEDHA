@@ -1,6 +1,6 @@
 # Kayak Project
 
-The target of this project is to plan a trip based on the weather data. Here are the steps handled in thie project
+The target of this project is to plan a trip based on the weather data. Here are the steps handled in this project
 - Spotting the best cities to explore based on the 7 days weather forecast
 - Find the available hotels in the next days in these cities
 - Create vizualisation per cities of the available hotel and store them on a S3 bucket
@@ -11,7 +11,7 @@ The repository is organized into four main folders:
 
 - **00_Cities**: Contains data and scripts related to the French cities selected and their information
   - `cities.txt`: Initial list of cities to analyze
-  - `coordinates.csv`: Geocoded city data with INSEE codes
+  - `coordinates.csv` & `get_coordinates.ipynb`: Geocoded city data with INSEE codes and script used to get them based on the name
   - `weather.csv` & `weather_aggregated.csv`: Weather data outputs
   - `booking.json`: Final hotel data
   - `image/`: Directory for generated visualizations
@@ -23,7 +23,7 @@ The repository is organized into four main folders:
   - `booking/`: Scrapy spider for hotel data collection
   
 - **03_Data_Transformation**: Processes and combines all the data into useful outputs
-  - `transform_data.py`: Script for data cleaning, analysis, and visualization
+  - `data_transformation.ipynb`: Script for data cleaning, analysis, and visualization
   - Functions for AWS S3 integration and data storage
 
 ## How It Works
@@ -33,16 +33,18 @@ The repository is organized into four main folders:
    - Obtains official INSEE codes using the French government's geo API
    - Creates a foundation dataset with city names, coordinates, and INSEE codes
    
-2. Weather forecasts for the coming week are collected for each city using Meteo Concept API:
-   - Retrieves 7-day weather forecasts using the INSEE codes
-   - Analyzes temperature, precipitation, and wind conditions
+2. Weather forecasts for the coming week are collected for each city using the Meteo Concept API:
+    - Seven-day weather forecasts are retrieved using INSEE codes
+    - Temperature, precipitation, and wind conditions are analyzed
+
    
 3. Cities are ranked based on favorable weather conditions:
-   - Identifies days with unfavorable conditions (too hot, too cold, rainy, windy)
-   - Scores and ranks cities by the number of favorable days
+    - The script identifies days when weather conditions fall outside desired parameters (inappropriate temperature, rain, or excessive wind)
+    - Each day receives a binary score: 1 for unfavorable conditions, 0 for favorable conditions
+    - Cities are ranked by the total score across all days, with lower scores indicating more favorable weather conditions overall
    
 4. Booking.com is scraped to find the best hotels in the top 5 weather-ranked cities:
-   - Searches for accommodations across multiple dates
+   - Searches for accommodations for the next 7 days
    - Collects detailed hotel information including coordinates and pricing
    
 5. All data is transformed and consolidated into views with city information, weather forecasts, and hotel locations
@@ -52,9 +54,6 @@ The repository is organized into four main folders:
 
 ### 1. City Data Collection
 
-```bash
-python 00_Cities/collect_cities.py
-```
 
 The city collection component:
 - Starts with a predefined list of French cities stored in a `cities.txt` file
@@ -64,9 +63,6 @@ The city collection component:
 
 ### 2. Weather Analysis
 
-```bash
-python 01_Weather/forecast_analysis.py
-```
 
 The weather component:
 - Fetches 7-day weather forecasts for each city using the Meteo Concept API
@@ -79,10 +75,6 @@ The weather component:
 - Creates aggregated rankings of cities based on total favorable days
 
 ### 3. Hotel Data Scraping
-
-```bash
-python 02_Booking/booking_scraper.py
-```
 
 The booking component uses Scrapy to gather hotel information:
 - Takes the top 5 cities with the best weather from the weather analysis
@@ -101,10 +93,6 @@ The spider performs a two-step scraping process:
 2. Then following links to individual hotel pages to gather detailed information
 
 ### 4. Data Transformation
-
-```bash
-python 03_Data_Transformation/transform_data.py
-```
 
 The data transformation component:
 - Integrates data from all previous stages (cities, weather, booking)
