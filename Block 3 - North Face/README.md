@@ -1,14 +1,13 @@
 # North Face Project
 
-This project use clustering algorithme and  topic modeling  product descriptions. It processes a dataset of Northface product and applies natural language processing methods to identify patterns and group similar products.
+This project use clustering algorithm and  topic modeling  product descriptions. It processes a dataset of Northface product and applies natural language processing methods to identify patterns and group similar products.
 
 ## Overview
 The notebook provides a comprehensive pipeline for analyzing textual product data:
 
 - Data Loading and Preprocessing: Reads and cleans product descriptions
-- Text Vectorization: Converts text to numerical features using NLP techniques
-- Recommender System: Applies clustering algorithms to group similar products
-- Topic Modeling: Extracts main topics from product descriptions and C=creates word clouds to visualize key terms in each topic
+- Clustering and Recommender System: Applies clustering algorithms to group similar products
+- Topic Modeling: Extracts main topics from product descriptions and creates word clouds to visualize key terms in each topic
 
 ## Key Components
 
