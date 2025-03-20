@@ -214,7 +214,7 @@ Your goal is to build a spam detector, that can automatically flag spams as they
 <!-- PROJECT 9 -->
 ## Block 5 - Project GetAround
 
-**Project Link:** []()
+**Project Link:** [Project GetAround](https://github.com/llepogam/JEDHA/tree/main/Block%205%20-%20Project%20GetAround)
 
 GetAround is the Airbnb for cars. You can rent cars from any person for a few hours to a few days! Founded in 2009, this company has known rapid growth. In 2019, they count over 5 million users and about 20K available cars worldwide.
 
@@ -255,8 +255,22 @@ In order to help them make the right decision, they are asking you for some data
 - How many problematic cases will it solve depending on the chosen threshold and scope?
 
 <!-- PROJECT 10 -->
-## Block 6 - Final Project
+## Block 6 - Final Project - Hate Speech Recognition Proect
 
-**Project Link:** []()
+**Project Link:** [Final Project - Hate Speech Recognition Proect](https://github.com/llepogam/JEDHA/tree/main/Block%205%20-%20Project%20GetAround)
 
-### Description
+### Context
+
+Major tech platforms have been reducing their focus on content moderation in recent years, leading to a documented increase in hate speech and offensive content online. As highlighted by news reports and research, these policy shifts have created a growing need for accessible tools that can help identify potentially harmful content. This project addresses that gap by providing an open-source solution for offensive speech detection.
+
+### Project Overview
+
+The goal of this project is to implement a complete machine learning pipeline for offensive speech detection - from data extraction to user-facing applications. The pipeline includes:
+
+Data acquisition and preprocessing
+Model training and evaluation
+Model deployment via MLflow
+API development for prediction services
+User-friendly web application
+
+This end-to-end implementation demonstrates the complete lifecycle of a machine learning project, with particular focus on deploying a fully functional system that can be used in real-world scenarios.
