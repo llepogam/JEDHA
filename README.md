@@ -26,7 +26,7 @@
     <li><a href="#block-3---north-face">Block 3 - North Face</a></li>     
     <li><a href="#block-4---project-att">Block 4 - Project AT&T</a></li>
     <li><a href="#block-5---project-getaround">Block 5 - Project GetAround</a></li>
-    <li><a href="#block-6---final-project">Block 6 - Final Project - Offensive Speech Detection</a></li>
+    <li><a href="#block-6---final-project---offensive-speech-detection">Block 6 - Final Project - Offensive Speech Detection</a></li>
   </ol>
 </details>
 <br />
@@ -257,7 +257,7 @@ In order to help them make the right decision, they are asking you for some data
 <!-- PROJECT 10 -->
 ## Block 6 - Final Project - Offensive Speech Detection
 
-**Project Link:** [Final Project - Offensice Speech Recognition](https://github.com/llepogam/JEDHA/tree/main/Block%206%20-%20Final%20Project%20-%20Hate%20Speech%20Detection)
+**Project Link:** [Final Project - Offensive Speech Recognition](https://github.com/llepogam/JEDHA/tree/main/Block%206%20-%20Final%20Project%20-%20Hate%20Speech%20Detection)
 
 ### Context
 
