@@ -1,0 +1,5 @@
+Links for the application web site
+
+API : https://llepogam-hate-speech-detection-api.hf.space/docs
+
+Streamlit App : https://llepogam-hate-speech-recognition-app.hf.space/

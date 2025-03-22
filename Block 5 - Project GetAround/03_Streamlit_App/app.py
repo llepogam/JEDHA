@@ -172,7 +172,7 @@ if df is not None:
         3. **A buffer of 30-60 minutes between rentals appears sufficient to minimize scheduling conflicts**: 
             - Given the current rental frequency, aggressive time optimization does not appear necessary
             - Most delays are less than 1 hour, and this buffer would prevent most potential issues
-            - Approximately 4% of reservations would be affected by implementing this threshold
+            - Approximately 2% of reservations would be affected by implementing this threshold
         """)
             
     # Tab 1: General Analysis
