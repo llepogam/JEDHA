@@ -6,24 +6,16 @@ This repository contains a complete solution for optimizing car rental operation
 
 ### Project Background
 
-Getaround allows people to rent cars from individuals for periods ranging from hours to days. The company has experienced rapid growth since its founding in 2009, with over 5 million users and approximately 20,000 available cars worldwide as of 2019.
-
-A key operational challenge identified by Getaround is the issue of late returns at checkout, which can cause significant problems:
-- Creates friction for the next driver if the car is booked again on the same day
-- Results in customer dissatisfaction due to waiting for delayed returns
-- Sometimes leads to rental cancellations when cars aren't returned on time
-
-To address these issues, Getaround is implementing a minimum delay between consecutive rentals, preventing cars from appearing in search results if requested checkin/checkout times are too close to existing bookings. This solution requires careful optimization to balance customer satisfaction with revenue impact.
+This project addresses Getaround's challenge of late returns affecting subsequent rentals. When drivers return cars late, it creates friction for the next renter who may have to wait or even cancel their booking. To mitigate this issue, Getaround is considering implementing a minimum delay between consecutive rentals, which would prevent cars from appearing in search results if the requested times are too close to an existing booking.
 
 ### Project Objectives
 
-This project helps Getaround determine:
-1. The optimal minimum delay threshold between consecutive rentals
-2. The appropriate scope for implementing this feature (all cars vs. only Connect cars)
-3. The revenue impact of different threshold settings
-4. The effectiveness of thresholds in preventing problematic cases
+This project has several objectives:
 
-Through data analysis, predictive modeling, interactive visualization, and API development, this project provides stakeholders with the tools to make informed decisions that balance operational efficiency, customer satisfaction, and business revenue.
+- Optimal Minimum Delay Threshold: Identify the ideal time buffer between consecutive rentals that balances customer satisfaction with revenue impact. Data analysis suggests 30 minutes as a reasonable standard threshold, with potentially different thresholds for mobile vs. connect rentals.
+- Pricing Optimization: Build a machine learning model to predict the optimal rental price based on car features and rental patterns.
+- Data Analysis App: Create an interactive Streamlit dashboard to visualize the main analysis and simulate the impact of different threshold settings on rental availability and revenue.
+- API: Create a RESTful API to make the pricing model accessible for production use, allowing for seamless integration with other systems.
 
 ## Project Components
 

@@ -170,8 +170,8 @@ Therefore, Uber's data team would like to work on a project where their app woul
 ### Goals 🎯
 Uber already has data about pickups in major cities. Your objective is to create algorithms that will determine where are the hot-zones that drivers should be in. Therefore you will:
 
-Create an algorithm to find hot zones
-Visualize results on a nice dashboard
+- Create an algorithm to find hot zones
+- Visualize results on a nice dashboard
 
 <!-- PROJECT 7 -->
 ## Block 3 - North Face
@@ -253,6 +253,16 @@ In order to help them make the right decision, they are asking you for some data
 - How many rentals would be affected by the feature depending on the threshold and scope we choose?
 - How often are drivers late for the next check-in? How does it impact the next driver?
 - How many problematic cases will it solve depending on the chosen threshold and scope?
+
+### Web dashboard
+First build a dashboard that will help the product Management team with the above questions. You can use streamlit or any other technology that you see fit.
+
+### Machine Learning - /predict endpoint
+In addition to the above question, the Data Science team is working on pricing optimization. They have gathered some data to suggest optimum prices for car owners using Machine Learning.
+
+### Online production
+
+You have to host your API online. We recommend you to use Hugging Face as it is free of charge. But you are free to choose any other hosting provider.
 
 <!-- PROJECT 10 -->
 ## Block 6 - Final Project - Offensive Speech Detection
