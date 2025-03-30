@@ -57,11 +57,11 @@ Performance metrics for all models:
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |-------|----------|-----------|--------|----------|
-| Embedding | ~98% | High | Good | ~94% |
-| GRU | ~98% | Good | High | ~95% |
-| LSTM | ~98% | Good | High | ~94% |
-| GloVe | Lower | Moderate | 74% | Lower |
-| BERT | Good | High | Moderate | Good |
+| GRU Model | 0.984698 | 0.955975 | 0.938272 | 0.947040 |
+| LSTM Model | 0.983798 | 0.960265 | 0.923567 | 0.941558 |
+| Embedding Model | 0.985599 | 0.976923 | 0.907143 | 0.940741 |
+| BERT Model | 0.983798 | 0.976923 | 0.894366 | 0.933824 |
+| GloVe Model | 0.966697 | 0.990654 | 0.746479 | 0.851406 |
 
 Key findings:
 - Basic models achieved similar performance with excellent accuracy and F1 scores
@@ -74,4 +74,5 @@ The GRU model was selected as the best performing architecture due to its:
 - High recall (critical for spam detection)
 - Excellent overall F1 score
 - Reasonable computational requirements compared to transfer learning approaches
+
 
