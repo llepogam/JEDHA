@@ -3,7 +3,7 @@
 The target of this project is to plan a trip based on the weather data. Here are the steps handled in this project
 - Spotting the best cities to explore based on the 7 days weather forecast
 - Find the available hotels in the next days in these cities
-- Create vizualisation per cities of the available hotel and store them on a S3 bucket
+- Create vizualisation per cities of the available hotel and store them on a S3 bucket and a SQL server
 
 ## Project Structure
 
@@ -24,7 +24,8 @@ The repository is organized into four main folders:
   
 - **03_Data_Transformation**: Processes and combines all the data into useful outputs
   - `data_transformation.ipynb`: Script for data cleaning, analysis, and visualization
-  - Functions for AWS S3 integration and data storage
+  - `database_export.ipynb`: Script for pushing datasets to the SQL server
+  - Functions for AWS S3 & SQL server integration and data storage 
 
 ## How It Works
 
@@ -137,5 +138,5 @@ The system generates several data files and visualizations:
   - Top-ranked cities highlighted
   - Weather metrics comparison
 
-All outputs are stored both locally and in an AWS S3 bucket for easy access and sharing.
+All outputs are stored both locally, in an AWS S3 bucket and in a SQL server for easy access and sharing.
 
