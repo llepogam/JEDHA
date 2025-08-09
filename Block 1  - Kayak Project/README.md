@@ -106,7 +106,7 @@ The data transformation component:
   - Interactive maps showing hotel locations, prices, and ratings for each top city
   - Temperature distribution map across all cities
   - Weather metrics visualization
-- Uploads results to AWS S3 storage:
+- Uploads results to AWS S3 storage and on a RDS PostgreSQL:
   - CSV files with weather and hotel data
   - JSON files with booking information
   - Generated visualizations and images
