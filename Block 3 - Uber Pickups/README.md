@@ -36,7 +36,7 @@ The analysis utilizes the `uber-raw-data-apr14.csv` file containing approximatel
   
 - **DBSCAN Clustering**:
   - Density-based spatial clustering with noise
-  - Parameter tuning (eps=0.01, min_samples=10)
+  - Parameter tuning (eps=0.15, min_samples=10)
   - Noise point filtering and cluster center visualization
 
 ### 5. Hot Zone Identification
